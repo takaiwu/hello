@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 20 Mar 2022 20:15:00 +0800
+Source: hello
+Architecture: source
+Version: 2.10-3kwu1
+Distribution: focal
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Kevin Wu <kevinwu1105@hotmail.com>
+Changes:
+ hello (2.10-3kwu1) focal; urgency=low
+ .
+   * Add testing scripts
+Checksums-Sha1:
+ 6ba5fbd076c5b4d1eafa93da0407fd11182a358f 1660 hello_2.10-3kwu1.dsc
+ a2649423be76c2c7b98156d7b8d2e58d86e36b3c 7272 hello_2.10-3kwu1.debian.tar.xz
+ 1dec210baf6b1e710cf1ce4bfe6017058eb68ab6 5936 hello_2.10-3kwu1_source.buildinfo
+Checksums-Sha256:
+ 5a861767ff392532800841f6d32969ff7da6af61f156ae867efcec9f8183efbf 1660 hello_2.10-3kwu1.dsc
+ 8c4ec52749b864696eb2e268b82dac1b990b969292bc0e80e7edd9c378fbc930 7272 hello_2.10-3kwu1.debian.tar.xz
+ cf06be4e48a7e1fccfceced98954305b5b69d426861edf59d752a2c027b9da27 5936 hello_2.10-3kwu1_source.buildinfo
+Files:
+ 7fa6405be5e89ee68693aeb0ae79f4ec 1660 devel optional hello_2.10-3kwu1.dsc
+ 1cdfb75c5f414b2709bd5931b9316631 7272 devel optional hello_2.10-3kwu1.debian.tar.xz
+ e91ba377d375b9f8aafabb503f73cef4 5936 devel optional hello_2.10-3kwu1_source.buildinfo
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEE0z0gTVP5KbMQGQ0HUOP756JCfbEFAmI3SC0YHGtldmlud3Ux
+MTA1QGhvdG1haWwuY29tAAoJEFDj++eiQn2xwPML/Rs/5EMPQlQzu0uAsRgxfbbf
+tF6EdaYzqijGF1B2rUNY12P/9siKLdjqrlqPMiViOOISWhBsiW9m5cKHCsBcvkdB
+/2HA+G5hQxnRr83EBTF9Dg1UH0GdE5Ktxi1F8OWsvVCtwXM7LiLadfCVNI+uhK9a
+nw2/5eTxD/prD985Ovk30e0zCGAnQ5is8FU/InvGYjYOPbUZZC0Sl/Qx18C6WUM/
+eJkkEK2wX3J1sDMVj2Q5o+3dzkarESux/LFJp5wXaOysSqjPMX8YOe/RzlSTwt4Q
+3hJ1N44/E6zPL96qNZFfopNPGiWVg3nVN6HVAr7cIYq6wDNfe59bh+URIi4ZBSz2
+foCQh/BDooyKCuMnnexHmuHGDWaKpu6oP7rIabHOJzmmT8HGF5B9ebvBJwF1NFz/
+6i+PbhuwhLnlvPDKaGIfc+fTbqXRnbQaCmGPmu4GlTwfKAacGz6PaC0swauDWPSU
+GY0VyB4PE+7pmA4ocGBLAtDkXlAJfhHfLUY4b0Q0pg==
+=Z/VG
+-----END PGP SIGNATURE-----

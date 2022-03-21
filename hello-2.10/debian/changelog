@@ -1,3 +1,9 @@
+hello (2.10-3kwu1) focal; urgency=low
+
+  * Add testing scripts
+
+ -- Kevin Wu <kevinwu1105@hotmail.com>  Sun, 20 Mar 2022 20:15:00 +0800
+
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
   * Handle exit code 77 for skipped autopkgtests.
